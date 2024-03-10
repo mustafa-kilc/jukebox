@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": " let it be by the beatles ",
+    "price": 0.05,
+    "image": "https://cdn.europosters.eu/image/1300/posters/the-beatles-let-it-be-i86565.jpg"
+  },
+  {
+    "id": 2,
+    "title": "bohemian rhapsody by freddie mercury",
+    "price": 0.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg"
+  }
+]
